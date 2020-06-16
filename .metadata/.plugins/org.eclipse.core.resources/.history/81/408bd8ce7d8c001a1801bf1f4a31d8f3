@@ -1,0 +1,18 @@
+package test.testframework;
+
+import org.junit.Test;
+
+public class seleniumTest {
+
+	@Test
+	public void browserAutomation()
+	{
+		System.out.println("First step");
+	}
+   
+	@Test
+	public void secondTest()
+	{
+		System.out.println("secondTest");
+	}
+}

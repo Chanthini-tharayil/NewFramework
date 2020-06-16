@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17" started-at="2020-05-05T16:25:41Z" finished-at="2020-05-05T16:25:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17" started-at="2020-05-05T16:25:41Z" finished-at="2020-05-05T16:25:41Z">
+      <class name="test.testframework.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:test.testframework.SeleniumTest@11c20519]" name="browserAutomation" duration-ms="7" started-at="2020-05-05T21:55:41Z" finished-at="2020-05-05T21:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:test.testframework.SeleniumTest@11c20519]" name="secondTest" duration-ms="1" started-at="2020-05-05T21:55:41Z" finished-at="2020-05-05T21:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- test.testframework.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

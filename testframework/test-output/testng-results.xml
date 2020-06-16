@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27" started-at="2020-05-05T16:24:09Z" finished-at="2020-05-05T16:24:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27" started-at="2020-05-05T16:24:09Z" finished-at="2020-05-05T16:24:09Z">
+      <class name="test.testframework.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:test.testframework.SeleniumTest@61009542]" name="browserAutomation" duration-ms="1" started-at="2020-05-05T21:54:09Z" finished-at="2020-05-05T21:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:test.testframework.SeleniumTest@61009542]" name="secondTest" duration-ms="1" started-at="2020-05-05T21:54:09Z" finished-at="2020-05-05T21:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- test.testframework.SeleniumTest -->
+      <class name="test.testframework.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:test.testframework.AppTest@770c2e6b]" name="shouldAnswerWithTrue" duration-ms="11" started-at="2020-05-05T21:54:09Z" finished-at="2020-05-05T21:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- test.testframework.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
